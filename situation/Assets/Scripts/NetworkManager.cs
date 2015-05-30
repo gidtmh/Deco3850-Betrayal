@@ -13,6 +13,12 @@ public class NetworkManager : MonoBehaviour
 	private HostData[] hostList;
 	
 	public GameObject playerPrefab;
+
+	void OnJoinedRoom()
+	{
+		// Spawn player
+		PhotonNetwork.Instantiate(playerPrefab.name, Vector3.up * 5, Quaternion.identity, 0);
+	}
 	
 	void OnGUI()
 	{
@@ -75,6 +81,8 @@ public class NetworkManager : MonoBehaviour
 	{
 		SpawnPlayer();
 	}
+
+
 	
 	
 	private void SpawnPlayer()
