@@ -14,25 +14,31 @@ public class PlayerMovement : Photon.MonoBehaviour {
 				isAlive = false;
 			}
 		}
+        else if (coll.gameObject.name == "Resources")
+        {
+            Destroy(coll.gameObject);
+        }
 
 	}
 
 
 
 	// Update is called once per frame
-    void Update() {
-        if (photonView.isMine) {
+    void Update()
+    {
+        if (photonView.isMine)
+        {
             inputMovement();
         }
-        
+
     }
         
-        void inputMovement(){
-		if (Input.GetKey (KeyCode.D)) {
-			//			transform.Translate (Vector2.right * speed);
-			if (isAlive == true) {
-				transform.Rotate (Vector3.forward * -4);
-			}
+    void inputMovement(){
+	if (Input.GetKey (KeyCode.D)) {
+		//			transform.Translate (Vector2.right * speed);
+		if (isAlive == true) {
+			transform.Rotate (Vector3.forward * -4);
+		    }   
 		}
 
 		if (Input.GetKey (KeyCode.A)) {

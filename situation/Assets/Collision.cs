@@ -12,15 +12,4 @@ public class Collision : MonoBehaviour {
     void Update()
     {
     }
-
-    void OnCollisionEnter(Collider collision)
-    {
-
-        if (collision.gameObject.tag == "player")
-        {
-            Destroy(gameObject);
-
-        }
-
-    }
 }
