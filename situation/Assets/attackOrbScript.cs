@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class attackOrbScript : MonoBehaviour {
+public class attackOrbScript : Photon.MonoBehaviour {
 
 	public float speed = 1f;
 //	public Transform Jasper;
@@ -30,7 +30,7 @@ public class attackOrbScript : MonoBehaviour {
 	void Update () {
 		counter++;
 
-		if (counter > 550) {
+		if (counter > 150) {
 			Destroy (gameObject);
 		}
 

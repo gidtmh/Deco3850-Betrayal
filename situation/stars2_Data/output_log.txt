@@ -20,10 +20,14 @@ Platform assembly: C:\Users\Asus\Documents\GitHub\Deco3850-Betrayal\situation\st
 Loading C:\Users\Asus\Documents\GitHub\Deco3850-Betrayal\situation\stars2_Data\Managed\websocket-sharp.dll into Unity Child Domain
 Platform assembly: C:\Users\Asus\Documents\GitHub\Deco3850-Betrayal\situation\stars2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
 Loading C:\Users\Asus\Documents\GitHub\Deco3850-Betrayal\situation\stars2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.326 seconds
+- Completed reload, in  0.243 seconds
 desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
 Platform assembly: C:\Users\Asus\Documents\GitHub\Deco3850-Betrayal\situation\stars2_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Asus\Documents\GitHub\Deco3850-Betrayal\situation\stars2_Data\Managed\System.dll (this message is harmless)
+OnDisconnectedFromPhoton
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+

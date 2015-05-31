@@ -16,6 +16,7 @@ public class ZombieBehavior : Photon.MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
+        
 		if (health < 1) {
 			isAlive = false;
 			speed = 0;
