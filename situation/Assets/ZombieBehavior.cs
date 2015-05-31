@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class ZombieBehavior : MonoBehaviour {
+public class ZombieBehavior : Photon.MonoBehaviour {
 
 	public Transform player;
 	public float speed;

@@ -78,7 +78,10 @@ public class PlayerMovement : Photon.MonoBehaviour
 
         if (photonView.isMine)
         {
+            if (isAlive == true)
+            {
                 inputMovement();
+            }
             
         
         }
@@ -98,13 +101,9 @@ public class PlayerMovement : Photon.MonoBehaviour
             if (Input.GetKey(KeyCode.D))
             {
                 //			transform.Translate (Vector2.right * speed);
-                if (isAlive == true)
-                {
+                
                     transform.Rotate(Vector3.forward * -4);
-                }
-
-
-            }
+                 }
 
             if (Input.GetKey(KeyCode.A))
             {

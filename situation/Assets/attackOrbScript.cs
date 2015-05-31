@@ -30,7 +30,7 @@ public class attackOrbScript : MonoBehaviour {
 	void Update () {
 		counter++;
 
-		if (counter > 150) {
+		if (counter > 550) {
 			Destroy (gameObject);
 		}
 
