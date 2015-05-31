@@ -14,7 +14,7 @@ public class PlayerMovement : Photon.MonoBehaviour {
 				isAlive = false;
 			}
 		}
-        else if (coll.gameObject.name == "Resources")
+        else if (coll.gameObject.tag == "Resources")
         {
             Destroy(coll.gameObject);
         }
