@@ -76,73 +76,78 @@ public class PlayerMovement : Photon.MonoBehaviour
     void Update()
     {
 
-        //if (photonView.isMine) {
-        //     inputMovement();
-        // }
-
-
-
-        //void inputMovement(){
-        if (Input.GetKeyDown("space"))
+        if (photonView.isMine)
         {
-            Instantiate(attack_orb, transform.position, transform.rotation);
-
-
+                inputMovement();
+            
+        
         }
+    }
 
-        if (Input.GetKey(KeyCode.D))
-        {
-            //			transform.Translate (Vector2.right * speed);
-            if (isAlive == true)
+
+        void inputMovement(){
+
+
+            if (Input.GetKeyDown("space"))
             {
-                transform.Rotate(Vector3.forward * -4);
+                Instantiate(attack_orb, transform.position, transform.rotation);
+
+
             }
 
+            if (Input.GetKey(KeyCode.D))
+            {
+                //			transform.Translate (Vector2.right * speed);
+                if (isAlive == true)
+                {
+                    transform.Rotate(Vector3.forward * -4);
+                }
 
-        }
 
-        if (Input.GetKey(KeyCode.A))
-        {
-            //			transform.Translate (Vector2.right * -speed);
+            }
 
-            transform.Rotate(Vector3.forward * 4);
+            if (Input.GetKey(KeyCode.A))
+            {
+                //			transform.Translate (Vector2.right * -speed);
 
-            //			if (transform.localScale.x != -1) {
-            //				Vector3 temp = transform.localScale;
-            //				temp.x = (transform.localScale.x * -1f);
-            //				transform.localScale = temp;
-            //				
-            //			}
-        }
+                transform.Rotate(Vector3.forward * 4);
 
-        if (Input.GetKey(KeyCode.W))
-        {
-            transform.Translate(Vector2.up * speed);
+                //			if (transform.localScale.x != -1) {
+                //				Vector3 temp = transform.localScale;
+                //				temp.x = (transform.localScale.x * -1f);
+                //				transform.localScale = temp;
+                //				
+                //			}
+            }
 
-            //			if (transform.localScale.y != 1) {
-            //				Vector3 temp = transform.localScale;
-            //				temp.y = (transform.localScale.y * -1f);
-            //				transform.localScale = temp;
-            //
-            //			}
-        }
+            if (Input.GetKey(KeyCode.W))
+            {
+                transform.Translate(Vector2.up * speed);
 
-        if (Input.GetKey(KeyCode.S))
-        {
+                //			if (transform.localScale.y != 1) {
+                //				Vector3 temp = transform.localScale;
+                //				temp.y = (transform.localScale.y * -1f);
+                //				transform.localScale = temp;
+                //
+                //			}
+            }
 
-            transform.Translate(Vector2.up * -speed);
+            if (Input.GetKey(KeyCode.S))
+            {
 
-            //			if (transform.localScale.y != -1) {
-            //				Vector3 temp = transform.localScale;
-            //				temp.y = (transform.localScale.y * -1f);
-            //				transform.localScale = temp;
-            //
-            //			}
+                transform.Translate(Vector2.up * -speed);
 
-        }
+                //			if (transform.localScale.y != -1) {
+                //				Vector3 temp = transform.localScale;
+                //				temp.y = (transform.localScale.y * -1f);
+                //				transform.localScale = temp;
+                //
+                //			}
 
-        // }
+            }
+
+         }
 
     }
-}
+
 
