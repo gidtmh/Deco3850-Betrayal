@@ -27,7 +27,7 @@ public class GameManager : Photon.MonoBehaviour
 
     void StartGame()
     {
-        //Camera.main.farClipPlane = 1000; //Main menu set this to 0.4 for a nicer BG    
+        Camera.main.farClipPlane = 1000; //Main menu set this to 0.4 for a nicer BG    
         // Spawn our local player
         PhotonNetwork.Instantiate(this.playerPrefabName, transform.position, Quaternion.identity, 0);
     }
