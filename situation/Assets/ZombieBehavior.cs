@@ -23,7 +23,7 @@ public class ZombieBehavior : Photon.MonoBehaviour {
 		}
 
 		range = Vector2.Distance(transform.position, player.position);
-		if (range < 10f && health > 0) {
+		if (range < 1000f && health > 0) {
 
 			if (speed < 0) {
 				speed = speed * -1;
