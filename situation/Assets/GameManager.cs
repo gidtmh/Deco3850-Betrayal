@@ -11,6 +11,7 @@ public class GameManager : Photon.MonoBehaviour
     void OnJoinedRoom()
     {
         StartGame();
+		GameObject monster = PhotonNetwork.Instantiate("Jasper 3", Vector3.zero, Quaternion.identity, 0);
     }
 
     IEnumerator OnLeftRoom()
@@ -31,6 +32,7 @@ public class GameManager : Photon.MonoBehaviour
         // Spawn our local player
         PhotonNetwork.Instantiate(this.playerPrefabName, transform.position, Quaternion.identity, 0);
     }
+
 
     void OnGUI()
     {

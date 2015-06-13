@@ -11,6 +11,7 @@ public class PlayerMovement : Photon.MonoBehaviour
     public Transform Jasper;
     public Transform Jasper1;
     public Transform Jasper2;
+	public Vector3 updatedPOS;
     void start()
     {
 
@@ -75,7 +76,8 @@ public class PlayerMovement : Photon.MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+		print ("hello");
+		print (updatedPOS);
         if (photonView.isMine)
         {
             if (isAlive == true)

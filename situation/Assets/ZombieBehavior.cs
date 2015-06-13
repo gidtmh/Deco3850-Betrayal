@@ -9,21 +9,27 @@ public class ZombieBehavior : Photon.MonoBehaviour {
 	private float range;
 	private bool isAlive;
 
+	private Vector3 targetPos;
+
+
 	void start() {
 		isAlive = true;
+		targetPos = NetworkCharacter.getJamesPlayerPos ();
 	}
 
 	// Update is called once per frame
 	void Update () {
 
-        
+		targetPos = NetworkCharacter.getJamesPlayerPos ();
+		print (targetPos);
+
 		if (health < 1) {
 			isAlive = false;
 			speed = 0;
 		}
 
-		range = Vector2.Distance(transform.position, player.position);
-		if (range < 1000f && health > 0) {
+		range = Vector2.Distance(transform.position, targetPos);
+		if (range < 10f && health > 0) {
 
 			if (speed < 0) {
 				speed = speed * -1;
@@ -35,12 +41,12 @@ public class ZombieBehavior : Photon.MonoBehaviour {
 			}
 
 
-			Vector3 vectorToTarget = player.position - transform.position;
+			Vector3 vectorToTarget = targetPos - transform.position;
 			float angle = (Mathf.Atan2 (vectorToTarget.y, vectorToTarget.x) * Mathf.Rad2Deg) - 90;
 			Quaternion q = Quaternion.AngleAxis (angle, Vector3.forward);
 			transform.rotation = Quaternion.Slerp (transform.rotation, q, Time.deltaTime * 0.9f);
 			Debug.Log (range);
-			transform.position = Vector2.MoveTowards (transform.position, player.position, speed * 0.1f);
+			transform.position = Vector2.MoveTowards (transform.position, targetPos, speed * 0.1f);
 
 		} else if (health < 1) {
 			speed = 0f;

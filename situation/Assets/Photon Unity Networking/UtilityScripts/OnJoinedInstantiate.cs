@@ -9,6 +9,8 @@ public class OnJoinedInstantiate : MonoBehaviour
 
     public void OnJoinedRoom()
     {
+		GameObject monster = PhotonNetwork.Instantiate("Jasper 3", Vector3.zero, Quaternion.identity, 0);
+
         if (this.PrefabsToInstantiate != null)
         {
             foreach (GameObject o in this.PrefabsToInstantiate)
@@ -27,7 +29,9 @@ public class OnJoinedInstantiate : MonoBehaviour
                 Vector3 itempos = spawnPos + this.PositionOffset * random;
 
                 PhotonNetwork.Instantiate(o.name, itempos, Quaternion.identity, 0);
+
             }
+
         }
     }
 }

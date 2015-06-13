@@ -5,6 +5,9 @@ public class NetworkCharacter : Photon.MonoBehaviour
     private Vector3 correctPlayerPos = Vector3.zero; // We lerp towards this
     private Quaternion correctPlayerRot = Quaternion.identity; // We lerp towards this
     // Update is called once per frame
+
+	private static Vector3 jamesPlayerPos;
+
     void Update()
     {
         if (!photonView.isMine)
@@ -12,7 +15,15 @@ public class NetworkCharacter : Photon.MonoBehaviour
             transform.position = Vector3.Lerp(transform.position, this.correctPlayerPos, Time.deltaTime * 5);
             transform.rotation = Quaternion.Lerp(transform.rotation, this.correctPlayerRot, Time.deltaTime * 5);
         }
+		if (transform.name.Contains("player")){
+//			print (transform.position);
+			jamesPlayerPos = transform.position;
+		}
     }
+
+	public static Vector3 getJamesPlayerPos() {
+		return jamesPlayerPos;
+	}
 
     void OnPhotonSerializeView(PhotonStream stream, PhotonMessageInfo info)
     {
