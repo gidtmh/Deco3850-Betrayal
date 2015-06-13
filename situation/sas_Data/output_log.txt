@@ -2,24 +2,342 @@ Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce 820M               (ID=0x1140)
-    Vendor:   NVIDIA
-    VRAM:     1994 MB
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     128 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\IT Guy\Documents\TestProject12May15\sas_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\IT Guy\Documents\TestProject12May15\sas_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\IT Guy\Documents\TestProject12May15\sas_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\IT Guy\Documents\TestProject12May15\sas_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\IT Guy\Documents\TestProject12May15\sas_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\IT Guy\Documents\TestProject12May15\sas_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\IT Guy\Documents\TestProject12May15\sas_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\IT Guy\Documents\TestProject12May15\sas_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\IT Guy\Documents\TestProject12May15\sas_Data\Managed\Photon3Unity3D.dll (this message is harmless)
-Loading C:\Users\IT Guy\Documents\TestProject12May15\sas_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-Platform assembly: C:\Users\IT Guy\Documents\TestProject12May15\sas_Data\Managed\websocket-sharp.dll (this message is harmless)
-Loading C:\Users\IT Guy\Documents\TestProject12May15\sas_Data\Managed\websocket-sharp.dll into Unity Child Domain
-- Completed reload, in  0.063 seconds
-desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+Platform assembly: C:\Users\Asus\Documents\GitHub\Deco3850-Betrayal\situation\sas_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Asus\Documents\GitHub\Deco3850-Betrayal\situation\sas_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Asus\Documents\GitHub\Deco3850-Betrayal\situation\sas_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Asus\Documents\GitHub\Deco3850-Betrayal\situation\sas_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Asus\Documents\GitHub\Deco3850-Betrayal\situation\sas_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Asus\Documents\GitHub\Deco3850-Betrayal\situation\sas_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Asus\Documents\GitHub\Deco3850-Betrayal\situation\sas_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Asus\Documents\GitHub\Deco3850-Betrayal\situation\sas_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Asus\Documents\GitHub\Deco3850-Betrayal\situation\sas_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\Asus\Documents\GitHub\Deco3850-Betrayal\situation\sas_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Users\Asus\Documents\GitHub\Deco3850-Betrayal\situation\sas_Data\Managed\websocket-sharp.dll (this message is harmless)
+Loading C:\Users\Asus\Documents\GitHub\Deco3850-Betrayal\situation\sas_Data\Managed\websocket-sharp.dll into Unity Child Domain
+- Completed reload, in  0.129 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
 <RI> Initializing input.
-XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Asus\Documents\GitHub\Deco3850-Betrayal\situation\sas_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Asus\Documents\GitHub\Deco3850-Betrayal\situation\sas_Data\Managed\System.dll (this message is harmless)
+Script error: OnCollisionEnter
+This message parameter has to be of type: Collision
+The message will be ignored.
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoScriptCache.cpp Line: 247)
+
+Received OnSerialization for view ID 6. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 5. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 2. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 4. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 3. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+InvalidCastException: Cannot cast from source type to destination type.
+  at ThirdPersonNetwork.OnPhotonSerializeView (.PhotonStream stream, .PhotonMessageInfo info) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at PhotonView.ExecuteComponentOnSerialize (UnityEngine.Component component, .PhotonStream stream, .PhotonMessageInfo info) [0x00000] in <filename unknown>:0 
+  at PhotonView.DeserializeComponent (UnityEngine.Component component, .PhotonStream stream, .PhotonMessageInfo info) [0x00000] in <filename unknown>:0 
+  at PhotonView.DeserializeView (.PhotonStream stream, .PhotonMessageInfo info) [0x00000] in <filename unknown>:0 
+  at NetworkingPeer.OnSerializeRead (ExitGames.Client.Photon.Hashtable data, .PhotonPlayer sender, Int32 networkTime, Int16 correctPrefix) [0x00000] in <filename unknown>:0 
+  at NetworkingPeer.OnEvent (ExitGames.Client.Photon.EventData photonEvent) [0x00000] in <filename unknown>:0 
+  at ExitGames.Client.Photon.PeerBase.DeserializeMessageAndCallback (System.Byte[] inBuff) [0x00000] in <filename unknown>:0 
+  at ExitGames.Client.Photon.EnetPeer.DispatchIncomingCommands () [0x00000] in <filename unknown>:0 
+  at ExitGames.Client.Photon.PhotonPeer.DispatchIncomingCommands () [0x00000] in <filename unknown>:0 
+  at PhotonHandler.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Received OnSerialization for view ID 2. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 4. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 3. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+InvalidCastException: Cannot cast from source type to destination type.
+  at ThirdPersonNetwork.OnPhotonSerializeView (.PhotonStream stream, .PhotonMessageInfo info) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at PhotonView.ExecuteComponentOnSerialize (UnityEngine.Component component, .PhotonStream stream, .PhotonMessageInfo info) [0x00000] in <filename unknown>:0 
+  at PhotonView.DeserializeComponent (UnityEngine.Component component, .PhotonStream stream, .PhotonMessageInfo info) [0x00000] in <filename unknown>:0 
+  at PhotonView.DeserializeView (.PhotonStream stream, .PhotonMessageInfo info) [0x00000] in <filename unknown>:0 
+  at NetworkingPeer.OnSerializeRead (ExitGames.Client.Photon.Hashtable data, .PhotonPlayer sender, Int32 networkTime, Int16 correctPrefix) [0x00000] in <filename unknown>:0 
+  at NetworkingPeer.OnEvent (ExitGames.Client.Photon.EventData photonEvent) [0x00000] in <filename unknown>:0 
+  at ExitGames.Client.Photon.PeerBase.DeserializeMessageAndCallback (System.Byte[] inBuff) [0x00000] in <filename unknown>:0 
+  at ExitGames.Client.Photon.EnetPeer.DispatchIncomingCommands () [0x00000] in <filename unknown>:0 
+  at ExitGames.Client.Photon.PhotonPeer.DispatchIncomingCommands () [0x00000] in <filename unknown>:0 
+  at PhotonHandler.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Received OnSerialization for view ID 7. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+OnDisconnectedFromPhoton
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+

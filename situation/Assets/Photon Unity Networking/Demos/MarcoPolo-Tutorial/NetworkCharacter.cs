@@ -35,6 +35,7 @@ public class NetworkCharacter : Photon.MonoBehaviour
 
             PlayerMovement myC = GetComponent<PlayerMovement>();
             stream.SendNext((int)myC.speed);
+
         }
         else
         {
@@ -44,6 +45,7 @@ public class NetworkCharacter : Photon.MonoBehaviour
 
             PlayerMovement myC = GetComponent<PlayerMovement>();
             myC.speed= (int)stream.ReceiveNext();
+
         }
     }
 }

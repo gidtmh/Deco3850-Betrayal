@@ -7,6 +7,7 @@ public class GameManager : Photon.MonoBehaviour
     // this is a object name (must be in any Resources folder) of the prefab to spawn as player avatar.
     // read the documentation for info how to spawn dynamically loaded game objects at runtime (not using Resources folders)
     public string playerPrefabName = "player";
+   
 
     void OnJoinedRoom()
     {
@@ -31,6 +32,7 @@ public class GameManager : Photon.MonoBehaviour
         Camera.main.farClipPlane = 1000; //Main menu set this to 0.4 for a nicer BG    
         // Spawn our local player
         PhotonNetwork.Instantiate(this.playerPrefabName, transform.position, Quaternion.identity, 0);
+        //PhotonNetwork.Instantiate("ball", transform.position, transform.rotation, 0);
     }
 
 
