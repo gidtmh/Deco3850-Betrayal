@@ -76,8 +76,8 @@ public class PlayerMovement : Photon.MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-		print ("hello");
-		print (updatedPOS);
+//		print ("hello");
+//		print (updatedPOS);
         if (photonView.isMine)
         {
             if (isAlive == true)

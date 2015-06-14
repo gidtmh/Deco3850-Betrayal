@@ -21,7 +21,7 @@ public class ZombieBehavior : Photon.MonoBehaviour {
 	void Update () {
 
 		targetPos = NetworkCharacter.getJamesPlayerPos ();
-		print (targetPos);
+//		print (targetPos);
 
 		if (health < 1) {
 			isAlive = false;

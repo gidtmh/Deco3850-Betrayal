@@ -16,6 +16,8 @@ namespace UnityStandardAssets._2D
         private Vector3 m_CurrentVelocity;
         private Vector3 m_LookAheadPos;
 
+		private Vector3 playerPos;
+
         // Use this for initialization
         private void Start()
         {
