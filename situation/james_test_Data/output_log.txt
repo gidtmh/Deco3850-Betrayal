@@ -1,0 +1,949 @@
+Initialize engine version: 5.0.2f1 (0b02744d4013)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 580 (ID=0x1080)
+    Vendor:   NVIDIA
+    VRAM:     1487 MB
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 83)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\GitHub\Deco3850-Betrayal\situation\james_test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\GitHub\Deco3850-Betrayal\situation\james_test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\GitHub\Deco3850-Betrayal\situation\james_test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\GitHub\Deco3850-Betrayal\situation\james_test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\GitHub\Deco3850-Betrayal\situation\james_test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\GitHub\Deco3850-Betrayal\situation\james_test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\GitHub\Deco3850-Betrayal\situation\james_test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\GitHub\Deco3850-Betrayal\situation\james_test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\GitHub\Deco3850-Betrayal\situation\james_test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\GitHub\Deco3850-Betrayal\situation\james_test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\GitHub\Deco3850-Betrayal\situation\james_test_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading D:\GitHub\Deco3850-Betrayal\situation\james_test_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: D:\GitHub\Deco3850-Betrayal\situation\james_test_Data\Managed\websocket-sharp.dll (this message is harmless)
+Loading D:\GitHub\Deco3850-Betrayal\situation\james_test_Data\Managed\websocket-sharp.dll into Unity Child Domain
+- Completed reload, in  0.082 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\GitHub\Deco3850-Betrayal\situation\james_test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\GitHub\Deco3850-Betrayal\situation\james_test_Data\Managed\System.dll (this message is harmless)
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+27.772
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+27.4149
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+27.05875
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+26.70353
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+26.34921
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+25.99571
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+25.64309
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+25.29127
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+24.94017
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+24.58956
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+24.2397
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+23.89027
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+23.54126
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+27.15653
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+23.19248
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+26.79817
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+22.84378
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+26.44053
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+22.49499
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+26.08362
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+22.14585
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+25.72735
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+21.7962
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+25.37174
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+21.44563
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+25.01665
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+24.66219
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+24.30822
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+23.95467
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+23.60145
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+23.24852
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+22.89574
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+22.54176
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+22.18783
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+21.83367
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+26.43497
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+26.07573
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+25.71696
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+25.35865
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+25.00075
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+24.6433
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+24.28624
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+23.92947
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+23.57301
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+23.21675
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+22.86064
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+22.5046
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+22.14856
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+25.80379
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+25.44467
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+25.0859
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+24.72743
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+24.36926
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+24.01132
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+23.65358
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+23.296
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+22.93855
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+22.58122
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Failed to Instantiate prefab: attack_orb(Clone). Verify the Prefab is in a Resources folder (and not in a subfolder)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+22.22391
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+OnDisconnectedFromPhoton
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
